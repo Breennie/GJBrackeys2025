@@ -1,10 +1,77 @@
-Idée 1 : Un jeu narratif où le mec prends des décisions banales mais les conséquences sont tt le temps démesurées 
-Idée 2 : Jeu idle (clicker) avec des events aléatoires (a developper)
-Idée 3 (performance artistique) : un carré qui avance sur un fond blanc, rien ne se passe de tout le jeu (nothing can go wrong)
-Idée 4 : Un personnage marche vers la droite sur un fond blanc/mystérieux, avec un narrateur qui lâche de temps en temps des phrases comme
-"tout va bien aujourd'hui" ou "quelle belle journée" mais le twist c'est que de temps en temps un event va proc et va complètement changer le jeu 
-(combat 1V1 contre des items random ou des gens que tu croises et tout explose autour)
-Nouvelle idée 4 : Plateformer ou la map et le jeu en entier go wrong (vraiment t'as la map qui explose, des mobs qui mutent / passent en 3D, le style du jeu qui change d'un coup, ...)
-Idée 5 : Le personnage (un bébé) marche en équilibriste sur une corde tendue entre deux montagnes et ya des oiseaux / projectiles qui vont le deranger au long du parcours
-Idée 6 : Tu conduits une voiture mais t'es bourré (lent + moves aléatoires + pas de réponse du conducteur certaines fois + les phares déconnent) et y'a littéralement de plus en plus 
+Pitch : Tu conduits une voiture mais t'es bourré (lent + moves aléatoires + pas de réponse du conducteur certaines fois + les phares déconnent) et y'a littéralement de plus en plus 
 de gosses / grands mère / clous pour creuver tes pneus / péage ou t'as pas la thune / police qui te poursuit et tu dois arriver le plus loin possible
+
+Idees en plus:
+    Début à la 60sec on chill into on doit aller chercher
+    du pain (ou une autre connerie)
+    On met en evidence les objets evidents (les clefs)
+    et on met a disposition d'autres choses (argent)
+
+Dev :
+FPS depuis l'interieur de la voiture
+Durée determinée (10 min)
+Trajet determiné
+
+Course "d'obstacles":
+    animaux (vaches, poulets, moutons, chevres, canards)
+    gens (mamies(avec petit chien), enfants)
+    péages
+    circulation (autres voitures)
+    meteo (pluie, orage, tempete)
+    
+    armée (artillerie lourde...)
+        helicopters
+        tanks
+        lance missiles
+    police (surveillance...)
+        herses (clous pour percer les pneus)
+        barrages (voitures regroupées)
+        course poursuite
+    voiture incontrollable (joueur ou voiture)
+        parbrise encombré (buée, saleté...)
+        radio qui déconne
+        freins defaillant
+        phares defaillant
+        direction derive (va a droite ou gauche tout seul, on doit contrebalancer)
+
+Scenario:
+    mise en place histoire (tres bref) banale ("What could go wrong?")
+    meuf demande du pain
+    on rentre dans la voiture
+    1ere minute genre de tuto pas de réelles epreuve, on chill
+
+    (2 min)
+    on commence chez nous (petit village / campagne)
+    quelques gens (enfants, personnes agées)
+    enfants inprévisibles
+    mamies lentes (et imprévisibles)
+
+    (1 min)
+    transition village vers departementale on passe devant une grande ferme
+    poulets se baladent
+    canards (classico avec la file indienne daronne et les petits)
+
+    (3 min)
+    on débouche sur departementale (en campagne)
+    animaux vaches, moutons, chevres
+
+    (1 min)
+    on s'insere sur une nationale (ça va plus vite)
+    on doit gerer le traffique pour pas mourir / se faire poursuivre
+
+    on croise un peage
+
+    (5 min)
+    on continue sur la grande route encore un peu
+
+    on croise le second peage
+
+    (1 min)
+    on sort de la nationale
+    
+    (2 min)
+    on rentre en ville
+    beaucoup de gens
+
+    on trouve la boulangerie, on se gare
+    FIN!
