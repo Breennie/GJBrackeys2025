@@ -1,4 +1,52 @@
 Pitch : Tu conduits une voiture mais t'es bourré (lent + moves aléatoires + pas de réponse du conducteur certaines fois + les phares déconnent) et y'a littéralement de plus en plus 
 de gosses / grands mère / clous pour creuver tes pneus / péage ou t'as pas la thune / police qui te poursuit et tu dois arriver le plus loin possible
 
+Idees en plus:
+    Début à la 60sec on chill into on doit aller chercher
+    du pain (ou une autre connerie)
+    On met en evidence les objets evidents (les clefs)
+    et on met a disposition d'autres choses (argent)
+
 Dev :
+FPS depuis l'interieur de la voiture
+Durée determinée (10 min)
+Trajet determiné
+
+Course "d'obstacles":
+    animaux (vaches, poulets, moutons, chevres, canards)
+    gens (mamies(avec petit chien), enfants)
+    péages
+    circulation (autres voitures)
+    meteo (pluie, orage, tempete)
+    
+    armée (artillerie lourde...)
+        helicopters
+        tanks
+        lance missiles
+    police (surveillance...)
+        herses (clous pour percer les pneus)
+        barrages (voitures regroupées)
+        course poursuite
+    voiture incontrollable (joueur ou voiture)
+        parbrise encombré (buée, saleté...)
+        radio qui déconne
+        freins defaillant
+        phares defaillant
+        direction derive (va a droite ou gauche tout seul, on doit contrebalancer)
+
+Deroulement:
+    mise en place histoire (tres bref) banale ("What could go wrong?")
+    1ere minute genre de tuto pas de réelles epreuve, on chill
+
+    on commence chez nous (petit village / campagne)
+    quelques gens (enfants, personnes agées)
+    enfants inprévisibles
+    mamies lentes (et imprévisibles)
+
+    transition village vers departementale on passe devant une grande ferme
+    poulets se baladent
+    canards (classico avec la file indienne daronne et les petits)
+
+    on débouche sur departementale (en campagne)
+    animaux vaches, moutons, chevres
+
