@@ -34,19 +34,44 @@ Course "d'obstacles":
         phares defaillant
         direction derive (va a droite ou gauche tout seul, on doit contrebalancer)
 
-Deroulement:
+Scenario:
     mise en place histoire (tres bref) banale ("What could go wrong?")
+    meuf demande du pain
+    on rentre dans la voiture
     1ere minute genre de tuto pas de réelles epreuve, on chill
 
+    (2 min)
     on commence chez nous (petit village / campagne)
     quelques gens (enfants, personnes agées)
     enfants inprévisibles
     mamies lentes (et imprévisibles)
 
+    (1 min)
     transition village vers departementale on passe devant une grande ferme
     poulets se baladent
     canards (classico avec la file indienne daronne et les petits)
 
+    (3 min)
     on débouche sur departementale (en campagne)
     animaux vaches, moutons, chevres
 
+    (1 min)
+    on s'insere sur une nationale (ça va plus vite)
+    on doit gerer le traffique pour pas mourir / se faire poursuivre
+
+    on croise un peage
+
+    (5 min)
+    on continue sur la grande route encore un peu
+
+    on croise le second peage
+
+    (1 min)
+    on sort de la nationale
+    
+    (2 min)
+    on rentre en ville
+    beaucoup de gens
+
+    on trouve la boulangerie, on se gare
+    FIN!
