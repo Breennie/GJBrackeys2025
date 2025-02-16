@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://2rw3h7lfq0o1"
+path="res://.godot/imported/SportsCar2.obj-a93736c615f5d02ccd3e95628a598a7f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/SportsCar2.obj-a93736c615f5d02ccd3e95628a598a7f.mesh"]
+
+source_file="res://ressources/Realistic Car Pack - Nov 2018/OBJ/SportsCar2.obj"
+dest_files=["res://.godot/imported/SportsCar2.obj-a93736c615f5d02ccd3e95628a598a7f.mesh", "res://.godot/imported/SportsCar2.obj-a93736c615f5d02ccd3e95628a598a7f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

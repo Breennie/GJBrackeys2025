@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c7hn81ftk17sx"
+path="res://.godot/imported/NormalCar2.obj-d98ccf6a3325ec674e4752702577813a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/NormalCar2.obj-d98ccf6a3325ec674e4752702577813a.mesh"]
+
+source_file="res://ressources/Realistic Car Pack - Nov 2018/OBJ/NormalCar2.obj"
+dest_files=["res://.godot/imported/NormalCar2.obj-d98ccf6a3325ec674e4752702577813a.mesh", "res://.godot/imported/NormalCar2.obj-d98ccf6a3325ec674e4752702577813a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
