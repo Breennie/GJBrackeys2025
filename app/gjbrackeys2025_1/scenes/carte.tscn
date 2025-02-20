@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://cusbf3inco4kl"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_2nl64"]
+size = Vector3(100, 1, 100)
+
+[sub_resource type="BoxMesh" id="BoxMesh_086pd"]
+size = Vector3(100, 1, 100)
+
+[node name="Carte" type="Node3D"]
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+shape = SubResource("BoxShape3D_2nl64")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="StaticBody3D"]
+mesh = SubResource("BoxMesh_086pd")
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.755547, -0.589006, 0.286742, -0.0619738, 0.500014, 0.863797, -0.652156, 0.634869, -0.414287, 37.4178, 22.0837, -60.1377)
