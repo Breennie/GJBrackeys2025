@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://bi05ys4o2u5t6"]
+
+[ext_resource type="Script" path="res://gravite.gd" id="1_5v6lt"]
+[ext_resource type="PackedScene" uid="uid://cxm4c5j1ntkxv" path="res://ressources/stylooanimalassetpack/fbx/chicken.fbx" id="2_r00m0"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_e7cmw"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="CharacterBody3D" type="CharacterBody3D" parent="."]
+script = ExtResource("1_5v6lt")
+
+[node name="chicken" parent="CharacterBody3D" instance=ExtResource("2_r00m0")]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5, 0)
+shape = SubResource("SphereShape3D_e7cmw")

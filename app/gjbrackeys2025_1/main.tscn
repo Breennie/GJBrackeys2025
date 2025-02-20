@@ -1,7 +1,8 @@
-[gd_scene load_steps=3 format=3 uid="uid://dk0wca0sdt3b6"]
+[gd_scene load_steps=4 format=3 uid="uid://dk0wca0sdt3b6"]
 
 [ext_resource type="PackedScene" uid="uid://cusbf3inco4kl" path="res://scenes/carte.tscn" id="1_1qex2"]
 [ext_resource type="PackedScene" uid="uid://ci52bv1m15cbs" path="res://cars/Doge.tscn" id="1_xb1u0"]
+[ext_resource type="PackedScene" uid="uid://bi05ys4o2u5t6" path="res://scenes/png_de_merde.tscn" id="3_unab0"]
 
 [node name="main" type="Node3D"]
 
@@ -9,3 +10,6 @@
 
 [node name="car" parent="." instance=ExtResource("1_xb1u0")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.08755, 0)
+
+[node name="Node3D" parent="." instance=ExtResource("3_unab0")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.28843, 0.980186, 6.42529)
