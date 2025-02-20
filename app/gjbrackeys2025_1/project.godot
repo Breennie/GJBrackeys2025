@@ -14,6 +14,10 @@ config/name="GJBrackeys2025_1"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/road-generator/plugin.cfg")
+
 [filesystem]
 
 import/blender/enabled=false
