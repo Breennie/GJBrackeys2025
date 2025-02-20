@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://addons/road-generator/nodes/road_manager.gd" id="1_0l781"]
 [ext_resource type="Script" path="res://addons/road-generator/nodes/road_container.gd" id="2_sj4eb"]
-[ext_resource type="Material" path="res://addons/road-generator/resources/road_texture.material" id="3_0uy7l"]
+[ext_resource type="Material" uid="uid://dgl3rh8jgcf4j" path="res://addons/road-generator/resources/road_texture.material" id="3_0uy7l"]
 [ext_resource type="Script" path="res://addons/road-generator/nodes/road_point.gd" id="4_o3ti5"]
 [ext_resource type="PackedScene" uid="uid://dt0ot51ri46nj" path="res://ressources/free-tree-3d-low-poly-pack/Fbx/Tree_temp_climate_001.FBX" id="5_4ci8t"]
 
